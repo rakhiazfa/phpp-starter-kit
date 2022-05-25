@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "tailwind-watch": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css --watch"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
